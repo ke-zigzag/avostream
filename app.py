@@ -68,3 +68,5 @@ if upload_file is not None:
         st.write("Wait a few days")
     elif predicted_class == 1:
         st.write("Eat me")
+    else:
+        st.write("Really Avocado??")
